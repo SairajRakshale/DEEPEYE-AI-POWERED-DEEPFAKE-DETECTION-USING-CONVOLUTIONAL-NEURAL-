@@ -1,4 +1,6 @@
 # DEEPEYE-AI-POWERED-DEEPFAKE-DETECTION-USING-CONVOLUTIONAL-NEURAL-
+🎥 Project Walkthrough : https://drive.google.com/file/d/1IWXNjAZsoVeLtZ3cJCsxkNGCqmbuVJji/view?usp=drive_link
+
 📌 Project Overview
 DeepEye is a deep learning-based system designed to detect deepfake videos using Convolutional Neural Networks (CNN). The project focuses on identifying forged video content by analyzing spatial and temporal inconsistencies, helping to promote safer online media environments.
 
